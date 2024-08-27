@@ -17,5 +17,5 @@ def is_palindrome(s):
     return True
 
 
-print(is_palindrome("А роза упала на лапу азора"))  # Должно вернуть True
+print(is_palindrome("А роза упала на лапу Азора"))  # Должно вернуть True
 print(is_palindrome("Мальвина + Буратино = Артемон"))  # Должно вернуть False
